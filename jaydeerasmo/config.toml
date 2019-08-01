@@ -1,5 +1,5 @@
 bbaseurl = "http://www.jaydeerasmo.ca"
-title = "jaydeerasmo"
+title = "Jayde Erasmo"
 theme = "hugo-coder"
 languagecode = "en"
 defaultcontentlanguage = "en"
@@ -39,6 +39,11 @@ disqusShortname = "yourdiscussshortname"
     icon = "fab fa-github fa-2x"
     weight = 1
     url = "https://github.com/jaydeerasmo/"
+[[params.social]]
+    name = "Linkedin"
+    icon = "fab fa-linkedin"
+    weight = 2
+    url = "https://www.linkedin.com/in/jaydeerasmo"
 
 # Menu links
 [[menu.main]]
