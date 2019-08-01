@@ -23,7 +23,7 @@ disqusShortname = "yourdiscussshortname"
     favicon_32 = "/img/favicon-32x32.png"
     favicon_16 = "/img/favicon-16x16.png"
 
-    footercontent = "Enter a text here."
+    footercontent = "Exploring the future, today."
 
     hidecredits = false
     hidecopyright = false
@@ -54,3 +54,7 @@ disqusShortname = "yourdiscussshortname"
     name = "About"
     weight = 2
     url = "/about/"
+[[menu.main]]
+    name = "Blog"
+    weight = 3
+    url = "/blog/"
