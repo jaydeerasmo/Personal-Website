@@ -1,5 +1,3 @@
-'use strict';
-
 class ProjectGallery extends React.Component {
   constructor(props) {
     super(props);
@@ -8,10 +6,10 @@ class ProjectGallery extends React.Component {
 
   render(){
     return(
-
+        <p>This is coming from a script!</p>
     );
   }
 }
 
 const domContainer = document.querySelector('#projects_gallery');
-ReactDOM.render(ProjectGallery, domContainer);
+ReactDOM.render(<ProjectGallery/>, domContainer);

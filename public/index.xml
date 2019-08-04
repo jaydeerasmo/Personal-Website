@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jayde Erasmo</title>
+    <link>/</link>
+    <description>Recent content on Jayde Erasmo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 03 Aug 2019 13:25:45 -0500</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First Post</title>
+      <link>/blog/first-post/</link>
+      <pubDate>Sat, 03 Aug 2019 13:25:45 -0500</pubDate>
+      
+      <guid>/blog/first-post/</guid>
+      <description>Hi! This is my first post on my personal blog where I will be sharing my thoughts about programming, learning, and technology!</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>About Me Hi!
+My name is Jayde. I am a recent Computer Science graduate from the University of Manitoba and an aspiring Full Stack Developer.
+In my studies I have specialized in Software Development and Human Computer Interaction. Outside of my studies, I am a University athelete, gamer, and movie-nerd!</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/</guid>
+      <description>Projects</description>
+    </item>
+    
+  </channel>
+</rss>

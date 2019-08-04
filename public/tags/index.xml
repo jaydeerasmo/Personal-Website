@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Jayde Erasmo</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on Jayde Erasmo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 03 Aug 2019 13:25:45 -0500</lastBuildDate>
+    
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My First Post</title>
+      <link>/tags/my-first-post/</link>
+      <pubDate>Sat, 03 Aug 2019 13:25:45 -0500</pubDate>
+      
+      <guid>/tags/my-first-post/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

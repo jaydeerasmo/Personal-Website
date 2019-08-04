@@ -3,7 +3,7 @@ title = "Jayde Erasmo"
 theme = "hugo-coder"
 languagecode = "en"
 defaultcontentlanguage = "en"
-
+staticDir = ["static"]
 paginate = 20
 canonifyurls = true
 
